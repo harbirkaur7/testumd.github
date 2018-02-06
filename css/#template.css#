@@ -399,7 +399,7 @@ a.right.carousel-control {
 }
 
 a.carousel-control {
-  top: 55%;
+  top: 45%;
   width: 34px;
   height: 34px;
   line-height: 32px;

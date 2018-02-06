@@ -102,7 +102,7 @@
 		  <ul class="nav navbar-nav navbar-right">
 		    <!-- Home -->
 		    <h3><center><a style="color:#FFFFFF; font-weight: bold; font-size: 38px;">Perception and Robotics Group</a></center></h3>
-		    <li><a href="/">Home</a></li>
+		    <li><a href="index.html">Home</a></li>
     <!-- /Home -->
     
     <!-- Pages -->
@@ -111,7 +111,8 @@
       <div class="submenu-wrapper">
         <div class="submenu-inner">
           <ul class="dropdown-menu">
-            <li><a href="https://scholar.google.com/citations?user=7QmEsOwAAAAJ">Publications</a></li>
+            <li><a href="#">Current Research</a></li>
+            <li><a href="#">Publication</a></li>
             <li><a href="videos.html">Videos</a></li>
           </ul>
         </div>
@@ -134,15 +135,14 @@
       </div>
       <!-- /submenu-wrapper -->
     </li>
-		    <li><a href="#">Media</a></li>
-		    <li><a>News</a></li>
-		    <li><a href="#contact-us">Contact Us</a></li>
-		    <li><p style="font-size:30px; color:#FFF" class="fab fa-youtube" aria-hidden="false"></p></li>
-		    <li><p style="font-size:30px; color:#FFF" class="fab fa-github" aria-hidden="false"></p></li>
-		</div><!-- /.navbar-collapse -->
-	      </div><!-- /.container -->
-	    </nav>
-	  </header>
+    
+    <li><a href="#">Media</a></li>
+    <li><a>News</a></li>
+    <li><a>Contact Us</a></li>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>
+</header>
 
 <div id="main-carousel" class="carousel slide hero-slide" data-ride="carousel">
   <!-- Indicators -->
@@ -848,7 +848,7 @@
 
 
 <!-- cta start -->
-<section class="cta-section" id="contact-us">
+<section class="cta-section">
   <div class="container text-center" style="color:red">
     <a data-toggle="modal" data-target="#quoteModal" href="#" class="btn btn-primary quote-btn"  style="color:danger-color" >Contact Us: <b>prg@cs.umd.edu</b></a>
     
